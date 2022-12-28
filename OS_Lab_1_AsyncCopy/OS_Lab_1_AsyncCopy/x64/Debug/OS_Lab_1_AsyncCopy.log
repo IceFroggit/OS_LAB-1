@@ -1,0 +1,10 @@
+﻿  OS_Lab_1_AsyncCopy.cpp
+C:\Users\aikak\source\repos\OS_Lab_1_AsyncCopy\OS_Lab_1_AsyncCopy\OS_Lab_1_AsyncCopy.cpp(37,37): warning C4244: =: преобразование "DWORD64" в "DWORD", возможна потеря данных
+C:\Users\aikak\source\repos\OS_Lab_1_AsyncCopy\OS_Lab_1_AsyncCopy\OS_Lab_1_AsyncCopy.cpp(40,50): warning C4244: =: преобразование "DWORD64" в "DWORD", возможна потеря данных
+C:\Users\aikak\source\repos\OS_Lab_1_AsyncCopy\OS_Lab_1_AsyncCopy\OS_Lab_1_AsyncCopy.cpp(67,37): warning C4244: =: преобразование "DWORD64" в "DWORD", возможна потеря данных
+C:\Users\aikak\source\repos\OS_Lab_1_AsyncCopy\OS_Lab_1_AsyncCopy\OS_Lab_1_AsyncCopy.cpp(70,48): warning C4244: =: преобразование "DWORD64" в "DWORD", возможна потеря данных
+C:\Users\aikak\source\repos\OS_Lab_1_AsyncCopy\OS_Lab_1_AsyncCopy\OS_Lab_1_AsyncCopy.cpp(115,37): warning C4244: аргумент: преобразование "DWORD64" в "LONG", возможна потеря данных
+C:\Users\aikak\source\repos\OS_Lab_1_AsyncCopy\OS_Lab_1_AsyncCopy\OS_Lab_1_AsyncCopy.cpp(153,9): warning C4101: time: неиспользованная локальная переменная
+C:\Users\aikak\source\repos\OS_Lab_1_AsyncCopy\OS_Lab_1_AsyncCopy\OS_Lab_1_AsyncCopy.cpp(168,47): warning C4101: k: неиспользованная локальная переменная
+C:\Users\aikak\source\repos\OS_Lab_1_AsyncCopy\OS_Lab_1_AsyncCopy\OS_Lab_1_AsyncCopy.cpp(168,41): warning C4101: time: неиспользованная локальная переменная
+  OS_Lab_1_AsyncCopy.vcxproj -> C:\Users\aikak\source\repos\OS_Lab_1_AsyncCopy\x64\Debug\OS_Lab_1_AsyncCopy.exe
